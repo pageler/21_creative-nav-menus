@@ -1,1 +1,1 @@
-Exercise working with mixins.
+Exercise working with creative menus.
